@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Sebastiano Chiari. I graduated in March 2020 (pandemic time 🦠) in Computer Science (bachelor's degree) at the University of Trento with a thesis regarding a Social Force Model implementation.
+
+🔭 I'm currently attending the M.Sc in Computer Science at the University of Trento, with a focus on **artificial intelligence** and **computer vision** techniques. I'm also a student collaborator at the [MMLAB](https://mmlab.disi.unitn.it/home) (Multimedia Signal Processing and Understanding Lab), working on a Unity-based crowd simulator.
+
+🔥 I'm very passionate about web-developing, tech events and everything related to the videogames industry (one of my dreams would be to work for a major video game development house).
+
+📫 You can find my website, email and more info about me in the profile section ⬅️
+
+
 <!--
 **sebastianochiari/sebastianochiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
